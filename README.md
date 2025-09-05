@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- 🔭 I’m currently a first-year MPA student
+- 🌱 I’m currently learning data science as my concentration
+- 📫 How to reach me: martinamputri@gmail.com
+
 <!--
 **martinamputri/martinamputri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
