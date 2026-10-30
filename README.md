@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently a first-year MPA student
+- 🔭 I’m currently a second-year MPA student
 - 🌱 I’m currently learning data science as my concentration
 - 📫 How to reach me: martinamputri@gmail.com
 
